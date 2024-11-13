@@ -1,4 +1,4 @@
-TARGET = 10
+TARGET = 200
 DIGITS = '9876543210'
 
 def operation_from_string(expression):

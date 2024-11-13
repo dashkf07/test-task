@@ -1,4 +1,4 @@
-const TARGET = 9876543210;
+const TARGET = 200;
 const DIGITS = '9876543210';
 
 
